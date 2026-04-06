@@ -24,3 +24,5 @@ https://shubham-code05.github.io/weather-app/
 
 ### Weather Result
 ![Screenshot 2](screenshot2.png)
+
+Built as part of my web development learning journey.
